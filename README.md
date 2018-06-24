@@ -1,4 +1,4 @@
-# Build a Rails App with a jQuery Front End
+y# Build a Rails App with a jQuery Front End
 
 ## Overview
 
